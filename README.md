@@ -1,6 +1,6 @@
 ## Wenhua Zhang（张文华）
 
-Postdoctoral Researcher
+Postdoctoral Fellow
 
 School of Computer Science and Engineering, Nanjing University of Science and Technology
 
