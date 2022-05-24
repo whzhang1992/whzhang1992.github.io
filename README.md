@@ -44,7 +44,7 @@ Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
 [2] Wenhua Zhang，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking”，the 3rd place；
 
-[3] 张文华，王浩然，周金柳，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place；
+[3] Wenhua Zhang，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place；
 
 ### Services
 
