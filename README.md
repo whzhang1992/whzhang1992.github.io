@@ -6,7 +6,7 @@ School of Computer Science and Engineering, Nanjing University of Science and Te
 
 Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
-### Selected Journal Papers
+## Selected Journal Papers
 
 [1] Wenhua Zhang, Licheng Jiao, Yuxuan Li and Jia Liu, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing (IEEE T-IP), vol. 30, pp. 878-891, 2021. 
 
@@ -24,7 +24,7 @@ Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
 [8] Jia Liu, Maoguo Gong, Liang Xiao, Wenhua Zhang and Fang Liu, "Evolving Connections in Group of Neurons for Robust Learning," in IEEE Transactions on Cybernetics (IEEE T-CYB), vol. 52, no. 5, pp. 3069-3082, 2022.
 
-### Selected Conference Papers
+## Selected Conference Papers
 
 [1] Wenhua Zhang, Haoran Wang, Zhongjian Huang, Yuxuan Li, Jinliu Zhou and Licheng Jiao, "Accurate and Long-Term Tracking via Overlap Maximization Integrated with Motion Continuity," 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (South), 2019, pp. 109-117.
 
@@ -38,7 +38,7 @@ Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
 [6] Haoran Wang, Zexin Wang, Meixia Jia, Aijin Li, Tuo Feng, Wenhua Zhang and Licheng Jiao, "Spatial Attention for Multi-Scale Feature Refinement for Object Detection," 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (South), 2019, pp. 64-72.
 
-### Honors
+## Honors
 
 [1] 张文华，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，本科组二等奖；
 
@@ -46,6 +46,6 @@ Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
 [3] Wenhua Zhang，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place；
 
-### Services
+## Services
 
 Reviewers of IEEE T-IP/IEEE T-GRS.
