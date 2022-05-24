@@ -4,7 +4,7 @@
     <td width="80%">
       <p>Postdoctoral Researcher</p>
       <p>School of Computer Science and Engineering, Nanjing University of Science and Technology.</p>
-      <p>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</p>
+      <p>Email：whzhang@njust.edu.cn or zhangwenhua_nuc@163.com</p>
     </td>
     <td width="40%">
       <img src="/1.png">    
