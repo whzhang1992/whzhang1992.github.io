@@ -1,12 +1,12 @@
 ## Wenhua Zhang（张文华）
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="100%">
       <p>Postdoctoral Researcher</p>
       <p>School of Computer Science and Engineering, Nanjing University of Science and Technology.</p>
       <p>Email：whzhang@njust.edu.cn; zhangwenhua_nuc@163.com.</p>
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="/1.png">    
     </td>
   </tr>
