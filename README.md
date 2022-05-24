@@ -39,7 +39,7 @@
 
 [3] Jia Liu, <b>Wenhua Zhang</b>, Maoguo Gong and Haibo He, "Nucleus Neural Network: A Data-driven Self-organized Architecture," 2020 International Joint Conference on Neural Networks (<b>IJCNN</b>), Glasgow, United Kingdom, 2020, pp. 1-8. (<b>Oral</b>)
 
-[4] Yuxuan Li, Licheng Jiao, Xu Tang, Xiangrong Zhang, <b>Wenhua Zhang</b> and Li Gao, "Weak Moving Object Detection in Optical Remote Sensing Video with Motion-Drive Fusion Network," 2019 IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>), Yokohama, Japan, 2019, pp. 5476-5479. (Oral) 
+[4] Yuxuan Li, Licheng Jiao, Xu Tang, Xiangrong Zhang, <b>Wenhua Zhang</b> and Li Gao, "Weak Moving Object Detection in Optical Remote Sensing Video with Motion-Drive Fusion Network," 2019 IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS</b>), Yokohama, Japan, 2019, pp. 5476-5479. (<b>Oral</b>) 
 
 [5] Xin Zhang, Licheng Jiao, Xu Liu, Xiaotong Li, <b>Wenhua Zhang</b>, Hao Zhu and Jie Zhang, "A Deep Learning Filter for Visual Drone Single Object Tracking," 2020 European Conference on Computer Vision Workshop (<b>ECCVW</b>), Glasgow, UK, August, pp. 638-650. (<b>Oral</b>)
 
@@ -47,11 +47,11 @@
 
 ## Honors
 
-[1] <b>张文华</b>，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，本科组二等奖.
+[1] <b>张文华</b>，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，<b>本科组二等奖</b>.
 
-[2] <b>Wenhua Zhang</b>，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking”，the 3rd place.
+[2] <b>Wenhua Zhang</b>，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking”，<b>the 3rd place</b>.
 
-[3] <b>Wenhua Zhang</b>，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place.
+[3] <b>Wenhua Zhang</b>，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，<b>the 2nd place</b>.
 
 ## Services
 
