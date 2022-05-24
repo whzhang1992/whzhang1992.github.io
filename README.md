@@ -1,4 +1,5 @@
 ## Wenhua Zhang（张文华）
+
 <table border="0">
   <tr>
     <td width="80%">
@@ -13,8 +14,9 @@
 </table>
 
 ## Biography
+Received the B.S. degree in communication engineering from the North University of China, Taiyuan, China, in 2015, and the Ph.D. degree from Xidian University, Xi’an, China, in 2021.
 
-My research interests include machine learning and image processing. I especially focus on object tracking in satellite videos, object recognition in optical remote images, change detection in SAR images.
+My research interests include machine learning and image processing. I especially focus on object tracking in satellite videos, object recognition in optical remote sensing images, and change detection in SAR images.
 
 ## Selected Journal Papers
 
