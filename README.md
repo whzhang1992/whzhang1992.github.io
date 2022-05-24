@@ -2,7 +2,7 @@
   <tr>
     <td width="80%">
       <h1>Wenhua Zhang（张文华）</h1>
-      <p><b>Postdoctoral Researcher</b></p>
+      <p>Postdoctoral Researcher</p>
       <p><b>School of Computer Science and Engineering, Nanjing University of Science and Technology.</b></p>
       <p><b>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</b></p>
     </td>
