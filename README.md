@@ -15,7 +15,7 @@
 
 ## Selected Journal Papers
 
-[1] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li and Jia Liu, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021. 
+[1] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li and Jia Liu, "[Sparse Learning-Based Correlation Filter for Robust Tracking](https://ieeexplore.ieee.org/document/9271879)," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021. 
 
 [2] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
 
