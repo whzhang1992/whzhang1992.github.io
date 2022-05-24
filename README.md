@@ -29,7 +29,7 @@
 
 [7] Jia Liu, <b>Wenhua Zhang</b>, Fang Liu and Liang Xiao, "Deep Associative Learning for Neural Networks," in <b>Neurocomputing</b>, vol. 443, pp. 222-234, 2021. 
 
-[8] Jia Liu, Maoguo Gong, Liang Xiao, <b>Wenhua Zhang</b> and Fang Liu, "Evolving Connections in Group of Neurons for Robust Learning," in IEEE Transactions on Cybernetics (<b>IEEE T-CYB</b>), vol. 52, no. 5, pp. 3069-3082, 2022.
+[8] Jia Liu, Maoguo Gong, Liang Xiao, <b>Wenhua Zhang</b> and Fang Liu, "Evolving Connections in Group of Neurons for Robust Learning," in IEEE Transactions on Cybernetics (<b>IEEE T-Cyb</b>), vol. 52, no. 5, pp. 3069-3082, 2022.
 
 ## Selected Conference Papers
 
