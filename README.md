@@ -3,8 +3,8 @@
     <td width="80%">
       <h1>Wenhua Zhang（张文华）</h1>
       <p>Postdoctoral Researcher</p>
-      <p><b>School of Computer Science and Engineering, Nanjing University of Science and Technology.</b></p>
-      <p><b>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</b></p>
+      <p>School of Computer Science and Engineering, Nanjing University of Science and Technology.</p>
+      <p>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</p>
     </td>
     <td width="40%">
       <img src="/1.png" width="100%">    
