@@ -49,9 +49,9 @@
 
 [1] <b>张文华</b>，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，<b>本科组二等奖</b>.
 
-[2] <b>Wenhua Zhang</b>，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking Challenge”，<b>the 3rd place</b>.
+[2] <b>Wenhua Zhang</b>，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge: Single Object Tracking Challenge”，<b>the 3rd place</b>.
 
-[3] <b>Wenhua Zhang</b>，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking Challenge”，<b>the 2nd place</b>.
+[3] <b>Wenhua Zhang</b>，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV): VisDrone Challenge-Single Object Tracking Challenge”，<b>the 2nd place</b>.
 
 ## Services
 
