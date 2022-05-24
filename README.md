@@ -2,7 +2,7 @@
 
 Postdoctoral Researcher
 
-School of Computer Science and Engineering, Nanjing University of Science and Technology
+School of Computer Science and Engineering, Nanjing University of Science and Technology.
 
 Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
