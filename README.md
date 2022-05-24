@@ -17,19 +17,19 @@
 
 [1] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li and Jia Liu, "[Sparse Learning-Based Correlation Filter for Robust Tracking](https://ieeexplore.ieee.org/document/9271879)," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021. 
 
-[2] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
+[2] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "[Adaptive Contourlet Fusion Clustering for SAR Image Change Detection](https://ieeexplore.ieee.org/document/9729100)," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
 
-[3] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li, Zhongjian Huang and Haoran Wang, "Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5604114, 2022. 
+[3] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li, Zhongjian Huang and Haoran Wang, "[Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/9411883)," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5604114, 2022. 
 
-[4] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Lingling Li, Xu Liu and Jia Liu, "MBLT: Learning Motion and Background for Vehicle Tracking in Satellite Videos," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-15, Art no. 4703315, 2022. 
+[4] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Lingling Li, Xu Liu and Jia Liu, "[MBLT: Learning Motion and Background for Vehicle Tracking in Satellite Videos](https://ieeexplore.ieee.org/document/9533178)," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-15, Art no. 4703315, 2022. 
 
-[5] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang, Wei Song and Jia Liu, "Sparse Feature Clustering Network for SAR Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-13, Art no. 5226713, 2022.  
+[5] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang, Wei Song and Jia Liu, "[Sparse Feature Clustering Network for SAR Image Change Detection](https://ieeexplore.ieee.org/document/9758718)," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-13, Art no. 5226713, 2022.  
 
-[6] Jia Liu, <b>Wenhua Zhang</b>, Fang Liu and Liang Xiao, "A Probabilistic Model Based on Bipartite Convolutional Neural Network for Unsupervised Change Detection," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 4701514, 2022. 
+[6] Jia Liu, <b>Wenhua Zhang</b>, Fang Liu and Liang Xiao, "[A Probabilistic Model Based on Bipartite Convolutional Neural Network for Unsupervised Change Detection](https://ieeexplore.ieee.org/document/9411675)," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 4701514, 2022. 
 
-[7] Jia Liu, <b>Wenhua Zhang</b>, Fang Liu and Liang Xiao, "Deep Associative Learning for Neural Networks," in <b>Neurocomputing</b>, vol. 443, pp. 222-234, 2021. 
+[7] Jia Liu, <b>Wenhua Zhang</b>, Fang Liu and Liang Xiao, "[Deep Associative Learning for Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003623?via%3Dihub)," in <b>Neurocomputing</b>, vol. 443, pp. 222-234, 2021. 
 
-[8] Jia Liu, Maoguo Gong, Liang Xiao, <b>Wenhua Zhang</b> and Fang Liu, "Evolving Connections in Group of Neurons for Robust Learning," in IEEE Transactions on Cybernetics (<b>IEEE T-CYB</b>), vol. 52, no. 5, pp. 3069-3082, 2022.
+[8] Jia Liu, Maoguo Gong, Liang Xiao, <b>Wenhua Zhang</b> and Fang Liu, "[Evolving Connections in Group of Neurons for Robust Learning](https://ieeexplore.ieee.org/document/9216490/)," in IEEE Transactions on Cybernetics (<b>IEEE T-CYB</b>), vol. 52, no. 5, pp. 3069-3082, 2022.
 
 ## Selected Conference Papers
 
