@@ -40,11 +40,11 @@ Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
 
 ## Honors
 
-[1] 张文华，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，本科组二等奖；
+[1] 张文华，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，本科组二等奖.
 
-[2] Wenhua Zhang，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking”，the 3rd place；
+[2] Wenhua Zhang，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking”，the 3rd place.
 
-[3] Wenhua Zhang，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place；
+[3] Wenhua Zhang，Haoran Wang，Jinliu Zhou，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place.
 
 ## Services
 
