@@ -55,4 +55,4 @@
 
 ## Services
 
-Reviewers of IEEE T-IP/IEEE T-GRS.
+Reviewer of IEEE T-IP/IEEE T-GRS.
