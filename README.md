@@ -16,8 +16,10 @@
 ## Selected Journal Papers
 
 [1] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li and Jia Liu, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021. 
-  [2] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
-  [3] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li, Zhongjian Huang and Haoran Wang, "Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5604114, 2022. 
+
+[2] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
+
+[3] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li, Zhongjian Huang and Haoran Wang, "Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5604114, 2022. 
 
 [4] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Lingling Li, Xu Liu and Jia Liu, "MBLT: Learning Motion and Background for Vehicle Tracking in Satellite Videos," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-15, Art no. 4703315, 2022. 
 
