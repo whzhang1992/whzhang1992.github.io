@@ -12,6 +12,9 @@
   </tr>
 </table>
 
+## Biography
+
+My research interests include machine learning and image processing. I especially focus on object tracking in satellite videos, object recognition in optical remote images, change detection in SAR images.
 
 ## Selected Journal Papers
 
