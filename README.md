@@ -14,7 +14,7 @@ Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
       <p><b>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</b></p>
     </td>
     <td width="40%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/1.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
