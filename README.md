@@ -7,7 +7,7 @@
       <p>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</p>
     </td>
     <td width="40%">
-      <img src="/1.png" width="100%">    
+      <img src="/1.png">    
     </td>
   </tr>
 </table>
