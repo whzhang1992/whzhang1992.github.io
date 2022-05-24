@@ -5,6 +5,20 @@ Postdoctoral Researcher
 School of Computer Science and Engineering, Nanjing University of Science and Technology.
 
 Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
+<table border="0">
+  <tr>
+    <td width="80%">
+      <h1>Wenhua Zhang（张文华）</h1>
+      <p><b>Postdoctoral Researcher</b></p>
+      <p><b>School of Computer Science and Engineering, Nanjing University of Science and Technology.</b></p>
+      <p><b>Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com</b></p>
+    </td>
+    <td width="40%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 
 ## Selected Journal Papers
 
