@@ -1,7 +1,7 @@
 ## Wenhua Zhang（张文华）
 <table border="0">
   <tr>
-    <td width="80%">
+    <td width="85%">
       <p>Postdoctoral Researcher</p>
       <p>School of Computer Science and Engineering, Nanjing University of Science and Technology.</p>
       <p>Email：whzhang@njust.edu.cn; zhangwenhua_nuc@163.com.</p>
