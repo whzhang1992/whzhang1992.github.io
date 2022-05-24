@@ -1,4 +1,4 @@
-## Wenhua Zhang（张文华）
+# Wenhua Zhang（张文华）
 
 Postdoctoral Researcher
 
