@@ -1,10 +1,12 @@
-## 张文华
+## Wenhua Zhang（张文华）
 
-南京理工大学计算机科学与工程学院
+Postdoctoral Researcher
 
-邮箱：whzhang@njust.edu.cn or zhangwenhua_nuc@163.com
+School of Computer Science and Engineering, Nanjing University of Science and Technology
 
-### 期刊论文
+Email：whzhang@njust.edu.cn / zhangwenhua_nuc@163.com
+
+### Selected Journal Papers
 
 [1] Wenhua Zhang, Licheng Jiao, Yuxuan Li and Jia Liu, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing (IEEE T-IP), vol. 30, pp. 878-891, 2021. 
 
@@ -22,7 +24,7 @@
 
 [8] Jia Liu, Maoguo Gong, Liang Xiao, Wenhua Zhang and Fang Liu, "Evolving Connections in Group of Neurons for Robust Learning," in IEEE Transactions on Cybernetics (IEEE T-CYB), vol. 52, no. 5, pp. 3069-3082, 2022.
 
-### 会议论文
+### Selected Conference Papers
 
 [1] Wenhua Zhang, Haoran Wang, Zhongjian Huang, Yuxuan Li, Jinliu Zhou and Licheng Jiao, "Accurate and Long-Term Tracking via Overlap Maximization Integrated with Motion Continuity," 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (South), 2019, pp. 109-117.
 
@@ -36,24 +38,14 @@
 
 [6] Haoran Wang, Zexin Wang, Meixia Jia, Aijin Li, Tuo Feng, Wenhua Zhang and Licheng Jiao, "Spatial Attention for Multi-Scale Feature Refinement for Object Detection," 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (South), 2019, pp. 64-72.
 
-### 授权专利
-
-[1] 焦李成，张文华，马文萍，杨淑媛，侯彪，刘芳，尚荣华，张向荣，马晶晶，张丹，唐旭，“一种基于表面波CNN的多光谱图像分类方法，”（授权 专利号：CN109242883B）
-
-[2] 焦李成，张文华，刘旭，皮兆亮，王丹，唐旭，冯志玺，李玲玲，杨淑媛，侯彪，“基于深度SR-KCF滤波的光学遥感视频目标跟踪方法，”（授权 专利号：CN107358260B）
-
-[3] 焦李成，宋纬，李宇轩，张文华，刘旭，李玲玲，冯志玺，唐旭，侯彪，杨淑媛，“基于JCFNet网络的遥感视频目标跟踪方法，”（授权 专利号：CN109242884B）
-
-### 比赛获奖
+### Honors
 
 [1] 张文华，张洪波，罗秀红，“2013全国大学生数学建模竞赛”，本科组二等奖；
 
-[2] 张文华，孟洋，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge单目标跟踪赛道”，银奖；
+[2] Wenhua Zhang，Yang Meng，“2018 European Conference on Computer Vision (ECCV)：VisDrone Challenge-Single Object Tracking”，the 3rd place；
 
-[3] 张文华，王浩然，周金柳，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge单目标跟踪赛道”，银奖；
+[3] 张文华，王浩然，周金柳，“2019 IEEE/CVF International Conference on Computer Vision (ICCV)：VisDrone Challenge-Single Object Tracking”，the 2nd place；
 
-[4] 皮兆亮，张文华，孟洋，“2017 IPIU杯影像大数据智能竞赛：光学遥感影像目标检测与识别赛道”，优秀奖。
+### Services
 
-### 其他
-
-IEEE T-IP/IEEE T-GRS审稿人
+Reviewers of IEEE T-IP/IEEE T-GRS.
