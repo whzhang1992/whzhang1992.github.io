@@ -29,7 +29,7 @@ My research interests include machine learning and image processing. I especiall
 
 [5] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang, Wei Song and Jia Liu, "Sparse Feature Clustering Network for SAR Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-13, Art no. 5226713, 2022.  
 
-[6] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Jia Liu and Zhen Cui, "LHNet: Laplacian Convolutional Block for Remote Sensing Image Scene Classification," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), Acceped, 2022. 
+[6] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Jia Liu and Zhen Cui, "LHNet: Laplacian Convolutional Block for Remote Sensing Image Scene Classification," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), Accepted, 2022. 
 
 [7] Jia Liu, <b>Wenhua Zhang</b>, Fang Liu and Liang Xiao, "A Probabilistic Model Based on Bipartite Convolutional Neural Network for Unsupervised Change Detection," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 4701514, 2022. 
 
