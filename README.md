@@ -21,11 +21,11 @@ My research interests include machine learning and image processing. I especiall
 
 [1] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "DFAT: Dynamic Feature-Adaptive Tracking," in IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE T-CSVT</b>), Accepted, 2022. 
 
-[2] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Jia Liu and Zhen Cui, "LHNet: Laplacian Convolutional Block for Remote Sensing Image Scene Classification," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), Accepted, 2022. 
+[2] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li and Jia Liu, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021. 
 
-[3] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li and Jia Liu, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021. 
+[3] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
 
-[4] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Shuyuan Yang and Jia Liu, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, 2022. 
+[4] <b>Wenhua Zhang</b>, Licheng Jiao, Fang Liu, Jia Liu and Zhen Cui, "LHNet: Laplacian Convolutional Block for Remote Sensing Image Scene Classification," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), Accepted, 2022. 
 
 [5] <b>Wenhua Zhang</b>, Licheng Jiao, Yuxuan Li, Zhongjian Huang and Haoran Wang, "Laplacian Feature Pyramid Network for Object Detection in VHR Optical Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5604114, 2022. 
 
